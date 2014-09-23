@@ -2,5 +2,6 @@
 public class test{
     public static void main(String[] a){
 	System.out.println("Welcome to JAVAFUN");
+	System.out.println("Esther Fraser");
     }
 }
