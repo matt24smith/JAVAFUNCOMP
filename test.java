@@ -18,7 +18,7 @@ public class test{
 	System.out.println("MATT SMITH was here");
 >>>>>>> e33ca8b0d9f495c941e87b7441d962196d4e5d3f
 =======
-	System.out.println("Kevin-Geoffery O'Hearon);
+	System.out.println("Kevin-Geoffery O'Hearon");
 >>>>>>> 8aa14d7de9f8ce41435e614f423f7ab65d2aa988
 =======
 	System.out.println("Robert Tracey")
