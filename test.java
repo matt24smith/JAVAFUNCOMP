@@ -4,6 +4,7 @@ public class test{
 	System.out.println("Welcome to JAVAFUN");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	System.out.println("Ryan Colaiacovo")
 =======
 	System.out.println("MATT SMITH was here");
@@ -11,5 +12,8 @@ public class test{
 =======
 	System.out.println("Kevin-Geoffery O'Hearon);
 >>>>>>> 8aa14d7de9f8ce41435e614f423f7ab65d2aa988
+=======
+	System.out.println("Robert Tracey")
+>>>>>>> ae0ba4a6162bfbdc497cdaa3e3dd5f03729dfbb0
     }
 }
