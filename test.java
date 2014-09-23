@@ -7,6 +7,7 @@ public class test{
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	System.out.println("Ryan Colaiacovo")
 =======
 	System.out.println("MATT SMITH was here");
@@ -23,5 +24,8 @@ public class test{
 =======
 	System.out.println("Esther Fraser");
 >>>>>>> b0d63e378601b5c5ba8af3577d8def04d739332b
+=======
+   System.out.println("Daniel Whitten"); //hello!
+>>>>>>> 4b36a66be6049c3c11e78354782677f9e7b80443
     }
 }
